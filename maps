@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    
+    <title>eight</title>
+    <body>
+        <img src= "beach.jpg" height="200" width=" 400 " alt="Agents">  </a>
+    </br>
+        <img src= "lotus.jpeg" height="200" width=" 400 " alt="Agents"> 
+    </br>
+        <img src= "icebox.jpg" height="200" width=" 400 " alt="Agents"> 
+    </br>
+        <a href="index.html">Return to home</a>
+    </body>
+    </html>
